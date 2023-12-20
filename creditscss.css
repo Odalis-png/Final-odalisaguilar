@@ -1,0 +1,26 @@
+*{margin:1;}
+body{background-color:#183D3D;
+color:#93B1A6;
+font-family:"afacad", sans-serif;}
+header{color:#c1e6d8;
+    text-align:center;
+    font-size:60px;
+    padding:10px;
+    margin-bottom:1vw;
+    background-image:url("backagain.jpg");}
+nav{text-align:center;}
+a { 
+text-decoration: none;
+color:#93B1A6}
+.nav li{display:inline;
+padding:10px;
+margin-left:2vw;
+margin-right:2vw;
+margin-bottom:50vw;
+font-size:20px;} 
+h2{text-align: center;
+font-size:40px;}
+h3{text-align: center;
+font-size:30px;}
+p{text-align:center;
+font-size:20px;}
